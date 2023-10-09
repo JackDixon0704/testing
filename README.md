@@ -1,2 +1,2 @@
-# testing
+# Testing
 Repository for testing Git
